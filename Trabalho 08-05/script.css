@@ -1,0 +1,32 @@
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+.prc{
+    background-color: black;
+    opacity: 0.5; 
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    transition: 0.3s
+}
+a :hover{
+    opacity: 0.7;
+}
+
+header{
+    height: 50px;
+    background-image: url(/Imagens/hollow-knight-silkson-wiki-logo-big.png);
+    background-position: center
+
+}
+
+main{
+    background-image: url(/Imagens/teaser-silksong-expansion.jpg);
+    background-repeat: no-repeat;
+}
