@@ -94,7 +94,7 @@ h1{
     font-family: fantasy;
     color: #fff;
     height: 10px;
-    
+    text-align: center;
 }
 
 .til2{
@@ -102,7 +102,6 @@ h1{
     color:#23232e;
     position: center center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    margin-left: 600px;
     letter-spacing: 3px;
     align-items: center;
     height: 250px;
@@ -115,6 +114,7 @@ h1{
     margin-left: 20%;
     margin-right: 25%;
     height: 350px;
+    text-align: center;
 }
 
 .quadra{
@@ -122,10 +122,6 @@ h1{
     height: 200px;
     width: 200px;
     opacity: 0.70;  
-}
-
-h3{
-    position: center center;
 }
 
 .rodape{
@@ -142,12 +138,13 @@ h3{
 
 .txtrodape{
     color: #fff;
+    
 
 }
 
 .ctn2{
 
-    height: 50vh;
+    height: 450px;
     width: 100%;
     background-color: #4E50CC;
     text-align: center;
